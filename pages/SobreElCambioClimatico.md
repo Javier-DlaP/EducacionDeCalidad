@@ -16,3 +16,5 @@ Larry Kane es el autor de “Climate Change – The Preeminent Crisis of Our Tim
 . Probabilidad de que ocurra el cambio climático. Ya está ocurriendo. Por qué ocurre. Relación entre los niveles de CO2 en la atmósfera y las temperaturas medias del planeta.
 
 . Efectos potenciales en el futuro (Señala que la mayoría dependen de las respuestas que demos): Temperaturas en la superficie; Lluvias, inundaciones y sequías; Tormentas destructoras; Productividad agrícola; Ecosistemas oceánicos; Calentamiento del Ártico; Elevación del nivel del mar; Refugiados climáticos; Reducción de biodiversidad y extinción de especies.
+
+### [Volver](https://javier-dlap.github.io/EducacionDeCalidad/) 
