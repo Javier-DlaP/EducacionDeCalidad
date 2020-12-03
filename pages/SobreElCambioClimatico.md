@@ -1,4 +1,4 @@
-##[Sobre el cambio climático](https://javier-dlap.github.io/EducacionDeCalidad/pages/SobreElCambioClimatico/)
+## [Sobre el cambio climático](https://javier-dlap.github.io/EducacionDeCalidad/pages/SobreElCambioClimatico/)
 Hoy voy a hacer referencias -casi todas, breves- a diversos artículos que he ido viendo sobre el cambio climático a lo largo de los últimos meses. La mayor parte de ellos, aparecidos en Medium ([https://medium.com](https://medium.com)).
 
 ![](https://javier-dlap.github.io/EducacionDeCalidad/images/placa-fotovoltaica.jpg)
