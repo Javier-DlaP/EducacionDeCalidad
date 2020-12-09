@@ -8,7 +8,7 @@ Con este primer post queremos introducirnos a uno de los objetivos de desarrollo
 
 Por Daniel Moreno 08 de diciembre de 2020
 
-### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/Introduccion)
+### [Sigue leyendo *Introducción a Edución de calidad*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Introduccion)
 
 -----------------
 
@@ -26,7 +26,7 @@ Más de una parte de estos ataques tuvieron lugar en cinco países de África Oc
 
 Por Irina Somoiag 06 de diciembre de 2020
 
-### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/SituacionEnAfrica)
+### [Sigue leyendo *Situación en África*](https://javier-dlap.github.io/EducacionDeCalidad/pages/SituacionEnAfrica)
 
 -----------------
 
@@ -36,6 +36,8 @@ Fabretto ([https://es.fabretto.org/](https://es.fabretto.org/)) es una organizac
 
 ![](https://javier-dlap.github.io/EducacionDeCalidad/images/Fabretto1.jpg)
 
+[https://www.agenda2030.gob.es/diseno/img/objetivo4.png](https://www.agenda2030.gob.es/diseno/img/objetivo4.png)
+
 Las pricipales 4 formas en las que Fabretto ha podido contribuir al cumplimiento del ODS 4 (Educación de Calidad) son:
 - Educación equitativa, gratuita y de calidad
 - Educación temprana
@@ -44,4 +46,18 @@ Las pricipales 4 formas en las que Fabretto ha podido contribuir al cumplimiento
 
 Por Diego Ruiz 07 de diciembre de 2020
 
-### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/Fabretto)
+### [Sigue leyendo *Fabretto*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Fabretto)
+
+-----------------
+
+# [Covid-19 y la educación hoy en día](https://javier-dlap.github.io/EducacionDeCalidad/pages/Covid19)
+
+Hoy quiero indicarles cuales son las consecuencias que ha traído el Covid-19 a la educación.
+
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/Covid19.jpg)
+
+La crisis provocada por la pandemia de COVID-19 ha supuesto una enorme presión en el sistema educativo el cual es necesario afrontarlo con un enfoque de emergencia.
+
+Por Ana Lopez 07 de diciembre de 2020
+
+### [Sigue leyendo *Covid-19 y la educación hoy en día*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Covid19)
