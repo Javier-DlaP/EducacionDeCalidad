@@ -48,7 +48,7 @@ Al igual que en Fabretto creemos que el ODS 4 es uno de los Objetivos de desarro
 
 [Donando](https://es.fabretto.org/donate-page/)
 
-[Aradrinando](https://es.fabretto.org/sponsor-a-child-page/)
+[Apadrinando](https://es.fabretto.org/sponsor-a-child-page/)
 
 Por Diego Ruiz 07 de diciembre de 2020
 
