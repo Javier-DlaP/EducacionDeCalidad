@@ -1,10 +1,11 @@
-# [Sobre el cambio climático](https://javier-dlap.github.io/EducacionDeCalidad/pages/SobreElCambioClimatico)
-Hoy voy a hacer referencias -casi todas, breves- a diversos artículos que he ido viendo sobre el cambio climático a lo largo de los últimos meses. La mayor parte de ellos, aparecidos en Medium ([https://medium.com](https://medium.com)).
+# [Sobre el cambio climático](https://javier-dlap.github.io/EducacionDeCalidad/pages/Introduccion)
 
-![](https://javier-dlap.github.io/EducacionDeCalidad/images/placa-fotovoltaica.jpg)
+Con este primer post queremos introducirnos a uno de los objetivos de desarrollo sostenible que ha marcado la ONU en su agenda para 2030. Explicaremos de qué trata, cómo afecta al mundo y qué podemos hacer para actuar ante el problema. El contenido que iremos subiendo después de este profundizará en distintas áreas del problema, lugares que se ven más afectados por la falta de una educación de calidad y distintos proyectos que han iniciado diferentes organizaciones para solventar el problema o disminuirlo.
 
-Aportan puntos de vista diferentes, que creo vale la pena conocer. En la Fundación Energía sin fronteras estamos estableciendo un grupo de trabajo “Cambio climático”.
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/EducacionDeCalidad.jpg)
 
-Por Javier de la Peña 03 de diciembre de 2020
+[https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2016/10/4_Spanish_Why_it_Matters.pdf](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2016/10/4_Spanish_Why_it_Matters.pdf)
 
-### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/SobreElCambioClimatico)
+Por Daniel Moreno Jiménez 08 de diciembre de 2020
+
+### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/Introduccion)
