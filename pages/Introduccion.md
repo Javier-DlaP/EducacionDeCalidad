@@ -42,6 +42,6 @@ Si aún así no tienes claro por qué es importante este objetivo, has de saber 
 [https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2016/10/4_Spanish_Why_it_Matters.pdf](https://www.un.org/sustainabledevelopment/es/wp-content/uploads/sites/3/2016/10/4_Spanish_Why_it_Matters.pdf)
 [https://www.un.org/sustainabledevelopment/es/education/](https://www.un.org/sustainabledevelopment/es/education/)
 
-Por Daniel Moreno Jiménez 08 de diciembre de 2020
+Por Daniel Moreno 08 de diciembre de 2020
 
 ### [Volver](https://javier-dlap.github.io/EducacionDeCalidad/) 
