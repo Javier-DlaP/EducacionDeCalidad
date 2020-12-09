@@ -54,7 +54,7 @@ Por Diego Ruiz 07 de diciembre de 2020
 
 Hoy quiero indicarles cuales son las consecuencias que ha traído el Covid-19 a la educación.
 
-![](https://javier-dlap.github.io/EducacionDeCalidad/images/Covid19.jpg)
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/Covid.jpg)
 
 La crisis provocada por la pandemia de COVID-19 ha supuesto una enorme presión en el sistema educativo el cual es necesario afrontarlo con un enfoque de emergencia.
 

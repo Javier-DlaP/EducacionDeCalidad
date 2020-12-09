@@ -15,7 +15,7 @@ La UNESCO ha decidido solucionar esta situación de crisis educativa y ha desarr
 
 [https://es.unesco.org/covid19/educationresponse/support](https://es.unesco.org/covid19/educationresponse/support)
 
-![](https://javier-dlap.github.io/EducacionDeCalidad/images/Covid19.jpg)
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/Covid.jpg)
 
 Por Ana Lopez 07 de diciembre de 2020
 
