@@ -27,3 +27,21 @@ Más de una parte de estos ataques tuvieron lugar en cinco países de África Oc
 Por Irina Somoiag 06 de diciembre de 2020
 
 ### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/SituacionEnAfrica)
+
+-----------------
+
+# [Fabretto](https://javier-dlap.github.io/EducacionDeCalidad/pages/Fabretto)
+
+Fabretto ([https://es.fabretto.org/](https://es.fabretto.org/)) es una organización que se basa en la idea de que la educación es la base para que niños, jóvenes y comunidades enteras puedan alcanzar su máximo potencial. Partiendo de esa base se dedican a ayudar a que todo el mundo tenga una educación de calidad.
+
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/Fabretto1.jpg)
+
+Las pricipales 4 formas en las que Fabretto ha podido contribuir al cumplimiento del ODS 4 (Educación de Calidad) son:
+- Educación equitativa, gratuita y de calidad
+- Educación temprana
+- Educación técnica rural
+- Maestros calificados y capacitados
+
+Por Diego Ruiz 07 de diciembre de 2020
+
+### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/Fabretto)
