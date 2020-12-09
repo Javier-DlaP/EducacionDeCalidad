@@ -10,7 +10,7 @@ Concretamente en Burkina Faso, Camerún, Chad, Malí, Níger, Nigeria, la Repúb
 Este dato parece haber aumentado por las amenazas,ataques a estudiantes, maestros y escuelas y contra la propia educación por parte de fuerzas y grupos armados.
 Más de una parte de estos ataques tuvieron lugar en cinco países de África Occidental y Central en 2018.
 
-Según datos de UNICEF ``el número de escuelas obligadas a cerrar debido al aumento de la inseguridad en las zonas de África Occidental y Central convulsionadas por los conflictos se triplicó entre finales de 2017 y junio de 2019. En junio de 2019, se habían cerrado 9.272 escuelas en ocho países de la región, lo que afectó a más de 1,91 millones de niños y a casi 44.000 maestros.´´
+Según datos de UNICEF ``el número de escuelas obligadas a cerrar debido al aumento de la inseguridad en las zonas de África Occidental y Central convulsionadas por los conflictos se triplicó entre finales de 2017 y junio de 2019. En junio de 2019, se habían cerrado 9.272 escuelas en ocho países de la región, lo que afectó a más de 1,91 millones de niños y a casi 44.000 maestros´´.
 
 Además, en la mayoría de las regiones, las niñas enfrentan más barreras educativas ya que tienen más probabilidades que los niños de ser excluidas de la educación. 
 La educación es una de las herramientas más eficaces para erradicar la desigualdad. Este es un derecho humano y es la clave para obtener otros derechos fundamentales, especialmente la protección de la dignidad y la justicia.

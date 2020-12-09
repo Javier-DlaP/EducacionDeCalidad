@@ -10,6 +10,8 @@ Por Daniel Moreno 08 de diciembre de 2020
 
 ### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/Introduccion)
 
+-----------------
+
 # [Situación en África](https://javier-dlap.github.io/EducacionDeCalidad/pages/SituacionEnAfrica)
 
 El África subsahariana tiene las tasas más altas de exclusión en educación. De los 262 millones de jóvenes y niños que han abandonado la escuela, 97,3 se encuentran en África subsahariana según la UNESCO.
