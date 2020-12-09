@@ -18,6 +18,10 @@ El África subsahariana tiene las tasas más altas de exclusión en educación. 
 
 [Archivo:Analfabetismo2013unesco.png](https://commons.wikimedia.org/wiki/File:Analfabetismo2013unesco.png#/media/Archivo:Analfabetismo2013unesco.png)
 
+Concretamente en Burkina Faso, Camerún, Chad, Malí, Níger, Nigeria, la República Centroafricana y la República Democrática del Congo.
+Este dato parece haber aumentado por las amenazas,ataques a estudiantes, maestros y escuelas y contra la propia educación por parte de fuerzas y grupos armados.
+Más de una parte de estos ataques tuvieron lugar en cinco países de África Occidental y Central en 2018.
+
 Por Irina Somoiag 06 de diciembre de 2020
 
 ### [Sigue leyendo](https://javier-dlap.github.io/EducacionDeCalidad/pages/SituacionEnAfrica)

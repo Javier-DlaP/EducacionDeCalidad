@@ -21,7 +21,7 @@ El potencial de estos niños queda sin explotar y a que sus oportunidades se pie
 
 En este vídeo de UNICEF, podemos ver el testimonio de Clarisse,una niña que gracias al esfuerzo de su madre ha podido volver a la escuela.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/GimIJLT8VrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="538" height="300" src="https://www.youtube.com/embed/GimIJLT8VrI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Según estos datos,parece poco probable conseguir las metas propuestas para la agenda 2030,pero entre todos podemos cambiarlo, puedes colaborar en La iniciativa de UNICEF, la Fundación Nelson Mandela y la Fundación Peter Krämer ``Schools for Africa´´.
 
