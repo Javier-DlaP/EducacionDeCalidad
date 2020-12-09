@@ -47,7 +47,8 @@ Un maestro capacitado puede transformar el futuro de un niño. Por eso forman a 
 Al igual que en Fabretto creemos que el ODS 4 es uno de los Objetivos de desarrollo Sostenible más importantes y necesita el impulso de todos los países para que se puedan alcanzar las metas que se proponen. Necesitamos trabajar unidos por el bien común y para ello Fabretto aporta dos formas en las que puedes ayudar:
 
 [Donando](https://es.fabretto.org/donate-page/)
-[Apradinando](https://es.fabretto.org/sponsor-a-child-page/)
+
+[Aradrinando](https://es.fabretto.org/sponsor-a-child-page/)
 
 Por Diego Ruiz 07 de diciembre de 2020
 
