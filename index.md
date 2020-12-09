@@ -16,7 +16,7 @@ Por Daniel Moreno 08 de diciembre de 2020
 
 El África subsahariana tiene las tasas más altas de exclusión en educación. De los 262 millones de jóvenes y niños que han abandonado la escuela, 97,3 se encuentran en África subsahariana según la UNESCO.
 
-<img src="https://javier-dlap.github.io/EducacionDeCalidad/images/Africa.jpg" alt="" width="70%"/>
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/Africa.jpg)
 
 [Archivo:Analfabetismo2013unesco.png](https://commons.wikimedia.org/wiki/File:Analfabetismo2013unesco.png#/media/Archivo:Analfabetismo2013unesco.png)
 
