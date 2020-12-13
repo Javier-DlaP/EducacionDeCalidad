@@ -17,7 +17,7 @@ La educación es una de las herramientas más eficaces para erradicar la desigua
 
 Estos conflictos se deben sobre todo a una oposición ideológica, esto se debe porque a la educación se le considera de ``estilo occidental´´. 
 
-Y a que sus oportunidades se pierden. Los niños deben tener la oportunidad de desarrollar las habilidades, los conocimientos, los valores y las actitudes necesarias para convertirse en adultos responsables, activos y productivos para poder romper ese círculo de pobreza.
+Ya que sus oportunidades se pierden. Los niños deben tener la oportunidad de desarrollar las habilidades, los conocimientos, los valores y las actitudes necesarias para convertirse en adultos responsables, activos y productivos para poder romper ese círculo de pobreza.
 
 En este vídeo de UNICEF, podemos ver el testimonio de Clarisse,una niña que gracias al esfuerzo de su madre ha podido volver a la escuela.
 
