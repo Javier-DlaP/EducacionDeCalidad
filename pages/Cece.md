@@ -1,4 +1,4 @@
-# [Situación en África](https://javier-dlap.github.io/EducacionDeCalidad/pages/Cece)
+# [CECE por la educación de calidad para tod@s](https://javier-dlap.github.io/EducacionDeCalidad/pages/Cece)
 
 Nuevo post sobre la fundación CECE (Confederación Española de Centros de Enseñanza). El principal objetivo de la fundación es: ``un sistema educativo de calidad que contribuya a una sociedad mejor´´.
 Tienen federaciones por toda España, a parte de pertenecer a numerosas asociaciones.
