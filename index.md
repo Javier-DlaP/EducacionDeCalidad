@@ -76,3 +76,17 @@ Os invitamos a todos que exploréis su página dónde podréis encontrar numeros
 Por Irina Somoiag 15 de enero de 2021
 
 ### [Sigue leyendo *CECE por la educación de calidad para tod@s*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Cece)
+
+-----------------
+
+# [¿Cómo crear un proyecto educativo de calidad?](https://javier-dlap.github.io/EducacionDeCalidad/pages/Crear_proyecto)
+
+Buscando información sobre proyectos educativos en proceso en el 2021, decidí buscar y plantear otro tema. ¿Cómo se puede crear un proyecto educativo de calidad?.
+
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/Proyecto_educativo.png)
+
+En este post os enseñaremos unos pasos a poder seguir en caso de querer crear un nuevo proyecto educativo. También veremos cómo mejorar o actualizar el método de  evaluación para que no se quede anticuado u obsoleto.
+
+Por Daniel Moreno 17 de enero de 2021
+
+### [Sigue leyendo *¿Cómo crear un proyecto educativo de calidad?*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Crear_proyecto)
