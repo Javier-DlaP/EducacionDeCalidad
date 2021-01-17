@@ -58,7 +58,7 @@ Hoy quiero indicarles cuales son las consecuencias que ha traído el Covid-19 a 
 
 La crisis provocada por la pandemia de COVID-19 ha supuesto una enorme presión en el sistema educativo el cual es necesario afrontarlo con un enfoque de emergencia.
 
-Por Ana Lopez 07 de diciembre de 2020
+Por Ana Lopez 17 de enero de 2021
 
 ### [Sigue leyendo *Covid-19 y la educación hoy en día*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Covid19)
 
