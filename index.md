@@ -61,3 +61,17 @@ La crisis provocada por la pandemia de COVID-19 ha supuesto una enorme presión 
 Por Ana Lopez 07 de diciembre de 2020
 
 ### [Sigue leyendo *Covid-19 y la educación hoy en día*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Covid19)
+
+-----------------
+
+# [CECE por la educación de calidad para tod@s](https://javier-dlap.github.io/EducacionDeCalidad/pages/Cece)
+
+Nuevo post sobre la fundación CECE (Confederación Española de Centros de Enseñanza). El principal objetivo de la fundación es: ``un sistema educativo de calidad que contribuya a una sociedad mejor´´.
+Tienen federaciones por toda España, a parte de pertenecer a numerosas asociaciones.
+Os invitamos a todos que exploréis su página dónde podréis encontrar numerosos servicios, así como diferentes cursos y proyectos.
+
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/CECE.png)
+
+Por Irina Somoiag 15 de enero de 2021
+
+### [Sigue leyendo *CECE por la educación de calidad para tod@s*](https://javier-dlap.github.io/EducacionDeCalidad/pages/Cece)
