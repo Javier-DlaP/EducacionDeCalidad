@@ -67,10 +67,11 @@ Por Ana Lopez 07 de diciembre de 2020
 # [CECE por la educación de calidad para tod@s](https://javier-dlap.github.io/EducacionDeCalidad/pages/Cece)
 
 Nuevo post sobre la fundación CECE (Confederación Española de Centros de Enseñanza). El principal objetivo de la fundación es: ``un sistema educativo de calidad que contribuya a una sociedad mejor´´.
-Tienen federaciones por toda España, a parte de pertenecer a numerosas asociaciones.
-Os invitamos a todos que exploréis su página dónde podréis encontrar numerosos servicios, así como diferentes cursos y proyectos.
 
 ![](https://javier-dlap.github.io/EducacionDeCalidad/images/CECE.png)
+
+Tienen federaciones por toda España, a parte de pertenecer a numerosas asociaciones.
+Os invitamos a todos que exploréis su página dónde podréis encontrar numerosos servicios, así como diferentes cursos y proyectos.
 
 Por Irina Somoiag 15 de enero de 2021
 

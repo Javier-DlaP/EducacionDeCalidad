@@ -6,7 +6,7 @@ Os invitamos a todos que exploréis su página dónde podréis encontrar numeros
 
 La Federación Española de Centros Educativos (CECE), fundada en 1977 es una organización empresarial del sector educativo que agrupa a miles de centros privados y subvencionados de toda España.
 
-![](https://javier-dlap.github.io/EducacionDeCalidad/images/Cece.png)
+![](https://javier-dlap.github.io/EducacionDeCalidad/images/CECE.png)
 
 Tienes federaciones por en Andalucía, Aragón, Asturias, Baleares, Cantabria, Castilla La Mancha, Casilla León, Cataluña, Comunidad Valenciana, Extremadura, Galicia, Islas Canarias, Madrid, La Rioja, Murcia Navarra y País Vasco.
 
